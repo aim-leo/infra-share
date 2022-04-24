@@ -24,7 +24,8 @@
     "url": "https://github.com/aim-leo/infra-share/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "react": "^18.0.0"
   },
-  "gitHead": "3ea6b363efb2652dc123a29160c8422dafc5c3b1"
+  "gitHead": "e9819e13403566af656f4660fe5ccff225c8eca8"
 }
