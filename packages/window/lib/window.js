@@ -2,7 +2,7 @@
 
 module.exports = window;
 
-import panel from '../../panel'
+import panel from '@infra-share/panel'
 
 function window() {
     // TODO
