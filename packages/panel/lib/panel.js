@@ -4,5 +4,5 @@ module.exports = panel;
 
 function panel() {
     // TODO
-    console.log('dasdasdas')
+    console.log('')
 }
