@@ -1,11 +1,11 @@
 {
-  "name": "@infra-share/window",
+  "name": "@infra-share/panel",
   "version": "0.0.5",
-  "description": "a simple window component",
+  "description": "a simple panel component",
   "author": "luozewei <zewei.luo@weride.ai>",
-  "homepage": "",
+  "homepage": "https://github.com/aim-leo/infra-share#readme",
   "license": "ISC",
-  "main": "Window.js",
+  "main": "lib/panel.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,11 +13,15 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aim-leo/infra-share.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/aim-leo/infra-share/issues"
   },
   "dependencies": {
     "lodash": "^4.17.21",
