@@ -1,0 +1,26 @@
+{
+  "name": "@infra-share/layer",
+  "version": "0.1.1-dev",
+  "description": "a simple layer component drive by react",
+  "author": "luozewei <zewei.luo@weride.ai>",
+  "homepage": "https://github.com/aim-leo/infra-share#readme",
+  "license": "ISC",
+  "main": "lib/layer.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aim-leo/infra-share.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/aim-leo/infra-share/issues"
+  }
+}
