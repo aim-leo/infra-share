@@ -1,6 +1,6 @@
 {
   "name": "@infra-share/layer",
-  "version": "0.1.1-dev",
+  "version": "0.1.1",
   "description": "a simple layer component drive by react",
   "author": "luozewei <zewei.luo@weride.ai>",
   "homepage": "https://github.com/aim-leo/infra-share#readme",
